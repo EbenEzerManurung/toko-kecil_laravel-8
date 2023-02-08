@@ -1,8 +1,8 @@
-<p align="center">
-    
 
-## Tentang Aplikasi
+# toko-kecil_laravel-8
 
+
+Using HTML,CSS and Javascript
 Toko kecil merupakan sebuah website yang digunakan untuk mengelola transaksi pada sebuah toko. Aplikasi ini dibuat menggunakan Laravel 8 dan minimal PHP 7.4 olehkarena itu jika pada saat proses instalasi terdapat error karena versi dari PHP yang tidak support.
 
 ### Beberapa Fitur yang tersedia:
@@ -30,6 +30,13 @@ Toko kecil merupakan sebuah website yang digunakan untuk mengelola transaksi pad
   - Setting Diskon Member
 - User (Administrator, Kasir)
 - Grafik ChartJS pada Dashboard
+- akun admin: 
+  'email' => 'admin@gmail.com', 
+  'password'=> 'password'
+
+- akun kasir:
+  'email' => 'kasir@gmail.com',
+  'password' => 'password'
 
 ## Instalasi
 #### Via Git
@@ -77,6 +84,72 @@ Menjalankan aplikasi
 php artisan serve
 ```
 
-## License
+## Screenshot 
+## Login
 
-[MIT license](https://opensource.org/licenses/MIT)
+![App Screenshot](https://github.com/EbenEzerManurung/toko-kecil_laravel-8/blob/main/screenshoot/ss_login.PNG?raw=true)
+
+
+
+## Dashboard
+
+![App Screenshot](https://github.com/EbenEzerManurung/toko-kecil_laravel-8/blob/main/screenshoot/ss_dashboard.PNG?raw=true)
+
+## Edit profil akun
+
+![App Screenshot](https://github.com/EbenEzerManurung/toko-kecil_laravel-8/blob/main/screenshoot/ss_edit%20profil.PNG?raw=true)
+
+## Daftar member
+
+![App Screenshot](https://github.com/EbenEzerManurung/toko-kecil_laravel-8/blob/main/screenshoot/ss_member.PNG?raw=true)
+
+## Cetak member
+
+![App Screenshot](https://github.com/EbenEzerManurung/toko-kecil_laravel-8/blob/main/screenshoot/ss_member_cetak.PNG?raw=true)
+
+## Daftar kategori
+
+![App Screenshot](https://github.com/EbenEzerManurung/toko-kecil_laravel-8/blob/main/screenshoot/ss_kategori.PNG?raw=true)
+
+## Daftar supplier
+
+![App Screenshot](https://github.com/EbenEzerManurung/toko-kecil_laravel-8/blob/main/screenshoot/ss_supplier.PNG?raw=true)
+
+## Daftar produk
+
+![App Screenshot](https://github.com/EbenEzerManurung/toko-kecil_laravel-8/blob/main/screenshoot/ss_produk.PNG?raw=true)
+
+## Cetak produk
+
+![App Screenshot](https://github.com/EbenEzerManurung/toko-kecil_laravel-8/blob/main/screenshoot/ss_cetak_produk.PNG?raw=true)
+
+## Transaksi penjualan
+
+![App Screenshot](https://github.com/EbenEzerManurung/toko-kecil_laravel-8/blob/main/screenshoot/ss_transaksi_penjualan.PNG?raw=true)
+
+## Daftar penjualan
+
+![App Screenshot](https://github.com/EbenEzerManurung/toko-kecil_laravel-8/blob/main/screenshoot/ss_penjualan.PNG?raw=true)
+
+## Transaksi pembelian
+
+![App Screenshot](https://github.com/EbenEzerManurung/toko-kecil_laravel-8/blob/main/screenshoot/ss_transaksi_pembelian.PNG?raw=true)
+
+
+## Daftar pembelian
+
+![App Screenshot](https://github.com/EbenEzerManurung/toko-kecil_laravel-8/blob/main/screenshoot/ss_pembelian.PNG?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
